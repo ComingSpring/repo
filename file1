@@ -2,4 +2,3 @@ branch b1
 merge tool test
 branch b1 line1
 branch dev1 line2
-branch dev1 line3
