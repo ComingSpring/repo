@@ -1,5 +1,5 @@
 branch b1
-file1
+merge tool test
 branch b1 line1
 branch dev1 line2
 master line3
